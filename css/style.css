@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzm3wpZGqsa6r9Sk7HEq4iI6OCODzBT68GA&s)
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+input {
+    padding: 5px;
+    margin: 5px;
+}

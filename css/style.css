@@ -1,8 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzm3wpZGqsa6r9Sk7HEq4iI6OCODzBT68GA&s)
-}
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAUdo-UIxQunt6P37UXUUGP3IhlBO2SuC7g&s');
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-size: 150% auto;
+     background-attachment: fixed;
+    }
 button {
     margin: 5px;
     padding: 10px;
